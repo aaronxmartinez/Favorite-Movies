@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+}
+
+
+
+h3 {
+    text-align: center;
+}
+
+
+
+h4 {
+    text-align: center;
+    padding: 25px;
+}
+
+
+
+div {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    padding: 20px;
+}
+
+
+
+p {
+    text-align: center;
+}
+
+
+
+a {
+    color: red;
+}
+
+
+
+a:hover {
+    font-size: 80px;
+}
+
+
+
+.link {
+    text-align: center;
+    align-items: center;
+    font-size: xx-large;
+}
+
+
+
+.paragraphs {
+    display: flex;
+    align-items: center;
+}
